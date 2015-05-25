@@ -1,0 +1,40 @@
+#tryme{
+    text-align: right;
+    top: 60px;
+    position: absolute;
+    left: 50%;
+    width: 500px;
+    transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    z-index: 500;
+}
+
+#logo img{
+float: left;
+    margin-right: 20px;
+}
+
+#logo h1{
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+}
+
+#logo small{
+    position: relative;
+    top: -15px;
+    left: 5px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-links li{
+    position: relative;
+    display: inline-block;
+padding-left: 30px;
+}
+
+.navbar{
+    margin-bottom: 0;
+}
